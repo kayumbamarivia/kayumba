@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+    color:blue;
+}
+.africa-bg{
+    background-color: red;
+    color: white;
+}
+.europe-bg{
+    background-color:green;
+    color: white;
+}
+.asia-bg{
+    background-color: blue;
+    color: white;
+}
+.america-bg{
+    background-color: rgb(11, 183, 235);
+    color: white;
+}
+button{
+    color:brown;
+}
